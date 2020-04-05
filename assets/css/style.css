@@ -57,10 +57,6 @@ a {
     text-decoration: none;
 }
 
-.search-engine-optimization {
-    color: #d9dcd6;
-}
-
 /* Setting all the context to the same font zie */
 p {
     font-size: 16px;
@@ -161,6 +157,7 @@ p {
     max-width: 150px;
 }
 
+/* positioning and style for each box header*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +185,7 @@ p {
     color: #ffffff;
 }
 
+/* images for their corresponding elements*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -200,6 +198,7 @@ p {
     max-height: 200px;
 }
 
+/* H2 element characteristics */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -215,6 +214,7 @@ p {
     font-size: 36px;
 }
 
+/* foot of the page, copywritten */
 .footer {
     padding: 30px;
     clear: both;
