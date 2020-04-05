@@ -40,24 +40,29 @@ is this supposed to be lke that? Seems unneccesary but it is rather aesthetic.  
     font-size: 20px;
 }
 
+/* Constructing the default contents the of Unordered List */
 .header div ul {
     list-style-type: none;
 }
 
+/* Positioning of list content */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* giving all anchor tags the same color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Setting all the context to the same font zie */
 p {
     font-size: 16px;
 }
 
+/* Positioning for the class, "hero" image */
 .hero {
     height: 800px;
     width: 100%;
