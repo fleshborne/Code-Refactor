@@ -57,11 +57,14 @@ a {
     text-decoration: none;
 }
 
+.search-engine-optimization {
+    color: #d9dcd6;
+}
+
 /* Setting all the context to the same font zie */
 p {
     font-size: 16px;
     list-style-position: inside;
-
 }
 
 /* Positioning for the class, "hero" image */
@@ -86,14 +89,16 @@ p {
     margin-left: 25px;
 }
 
+/* content positioning */
 .content {
     position: relative;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-    ;
+
 }
 
+/* elements for side bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -105,6 +110,7 @@ p {
     background-color: #2589bd;
 }
 
+/* positioning for benefit specific elements */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -120,6 +126,7 @@ p {
     color: #ffffff;
 }
 
+/*  text alligning for content on side bar */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -135,6 +142,7 @@ p {
     text-align: center;
 }
 
+/* images inside side bar */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
