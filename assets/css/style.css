@@ -57,10 +57,11 @@ a {
     text-decoration: none;
 }
 
-/* Setting all the context to the same font zie */
+/* Setting all the context to the same font size */
 p {
     font-size: 16px;
     list-style-position: inside;
+    overflow: auto;
 }
 
 /* Positioning for the class, "hero" image */
@@ -225,3 +226,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* end of css */
