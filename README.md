@@ -37,10 +37,6 @@ This should give you the Unit 1 homework file, which you can open in the termina
     
 
 # Feedback
-
-Feel free to contact me on: 
-Slack
-@Blake Thompson
-E-mail
-![Gmail](Blakeathompson94@gmail.com)
+1. @Blake Thompson on Slack
+2. Blakeathompson94@gmail.com
 
