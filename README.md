@@ -23,7 +23,7 @@ This should give you the Unit 1 homework file, which you can open in the termina
 
 # Test of Refactoring Html and Css to Meet These Necessary Guidelines 
 
-    `<
+    
     GIVEN a webpage meets accessibility standardsWHEN I view the source code
     THEN I find semantic HTML elements
     WHEN I view the structure of the HTML elements
@@ -34,4 +34,13 @@ This should give you the Unit 1 homework file, which you can open in the termina
     THEN they fall in sequential order
     WHEN I view the title element
     THEN I find a concise, descriptive title
-    >
+    
+
+# Feedback
+
+Feel free to contact me on: 
+Slack
+@Blake Thompson
+E-mail
+![Gmail](Blakeathompson94@gmail.com)
+
