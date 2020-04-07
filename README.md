@@ -2,15 +2,21 @@
 
 # Installation
 open terminal and make sure you're in the right directory and navigate to the repository folder
+
 ```cd ~/bootcamp/unh-por-fsf-pt-03-2020-u-c```
+
 run a git pull request with
+
 ```git pull```
+
 This should give you the Unit 1 homework file, which you can open in the terminal with command
+
 ```code .```
+
 
 # Visuals
 ![Website Header](assets\images\Markdown-images\Header-for-markdown.png)
-![Website Body](assets\images\Markdown-images\Body-for-markdown.png)
+![Website Body](https://github.com/fleshborne/Code-Refactor/blob/master/assets/images/Markdown-images/Body-for-markdown.png)
 ![Website Footer](assets\images\Markdown-images\Footer-for-markdown.png)
 
 
