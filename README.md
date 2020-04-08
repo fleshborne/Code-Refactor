@@ -15,7 +15,7 @@ This should give you the Unit 1 homework file, which you can open in the termina
 
 
 # Visuals
-![Website Overview](assets\images\Markdown-images\Markdown-final.png)
+![Website Overview](https://github.com/fleshborne/Code-Refactor/blob/master/assets/images/Markdown-images/_C__Users_blake_bootcamp_Homework_Code-Refactor_index.html%20(1).png)
 
 
 # Test of Refactoring Html and Css to Meet These Necessary Guidelines 
