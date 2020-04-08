@@ -12,7 +12,7 @@ body {
 }
 
 /* Head of the page */
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -20,19 +20,19 @@ body {
 }
 
 /* Applying position and font size to the header */
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 /* special scenario where the author decides to change the color of the text mid word
 is this supposed to be lke that? Seems unneccesary but it is rather aesthetic.  */
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
 /* Altering the positioning of the header */
-.header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -41,12 +41,12 @@ is this supposed to be lke that? Seems unneccesary but it is rather aesthetic.  
 }
 
 /* Constructing the default contents the of Unordered List */
-.header div ul {
+header nav ul {
     list-style-type: none;
 }
 
 /* Positioning of list content */
-.header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -87,7 +87,7 @@ p {
 }
 
 /* content positioning */
-.content {
+main {
     position: relative;
     width: 75%;
     display: inline-block;
@@ -108,76 +108,26 @@ p {
 }
 
 /* positioning for benefit specific elements */
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /*  text alligning for content on side bar */
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* images inside side bar */
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 /* positioning and style for each box header*/
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+.main-images {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -187,30 +137,12 @@ p {
 }
 
 /* images for their corresponding elements*/
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+.main-images img {
     max-height: 200px;
 }
 
 /* H2 element characteristics */
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.main-images h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
