@@ -15,7 +15,7 @@ This should give you the Unit 1 homework file, which you can open in the termina
 
 
 # Visuals
-![Website Overview] (https://github.com/fleshborne/Code-Refactor/blob/master/assets/images/Markdown-images/Markdown-final.png)
+![Website Overview](assets\images\Markdown-images\Markdown-final.png)
 
 
 # Test of Refactoring Html and Css to Meet These Necessary Guidelines 
@@ -34,6 +34,6 @@ This should give you the Unit 1 homework file, which you can open in the termina
     
 
 # Feedback
-1. @Blake Thompson on Slack
-2. Blakeathompson94@gmail.com
+1. Slack: @Blake Thompson
+2. Gmail : BlakeaThompson94
 
