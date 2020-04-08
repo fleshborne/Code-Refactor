@@ -15,10 +15,7 @@ This should give you the Unit 1 homework file, which you can open in the termina
 
 
 # Visuals
-![Website Header](https://github.com/fleshborne/Code-Refactor/blob/master/assets/images/Markdown-images/Header-for-markdown.png)
-![Website Body](https://github.com/fleshborne/Code-Refactor/blob/master/assets/images/Markdown-images/Body-for-markdown.png)
-![Website Footer](https://github.com/fleshborne/Code-Refactor/blob/master/assets/images/Markdown-images/Footer-for-markdown.png)
-
+![Website Overview] (assets\images\Markdown-images\Markdown-final.png)
 
 
 # Test of Refactoring Html and Css to Meet These Necessary Guidelines 
